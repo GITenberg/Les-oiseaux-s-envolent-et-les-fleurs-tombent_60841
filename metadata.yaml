@@ -1,5 +1,8 @@
 _repo: Les-oiseaux-s-envolent-et-les-fleurs-tombent_60841
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60841-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourges, Elémir
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/%C3%89l%C3%A9mir_Bourges
     - https://fr.wikipedia.org/wiki/%C3%89l%C3%A9mir_Bourges
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60841#Les-oiseaux-s-envolent-et-les-fleurs-tombent
 gutenberg_issued: '2019-12-03'
 gutenberg_type: Text
 identifiers:
